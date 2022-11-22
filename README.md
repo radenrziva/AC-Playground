@@ -1,1 +1,3 @@
-compsci UNJ
+Ilmu Komputer
+Fakultas MIPA
+Universitas Negeri Jakarta
