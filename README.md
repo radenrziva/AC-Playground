@@ -1,3 +1,3 @@
 Ilmu Komputer
-Fakultas MIPA
+Fakultas Matematika Ilmu pengetahuan Alam
 Universitas Negeri Jakarta
